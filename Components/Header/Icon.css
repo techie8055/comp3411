@@ -1,0 +1,7 @@
+.icon {
+    background-color: green;
+}
+
+.icon:hover {
+    opacity: 0.5;
+}
