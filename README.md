@@ -1,7 +1,10 @@
 Nine-Board Tic-Tac-Toe Agent starter code
-Code in agent.py
+
 COMP3411/9814 Artificial Intelligence
+
+#Code in agent.py
 # Briefly describe how your program works, including any algorithms and data structures employed, and explain any design decisions you made along the way:
+
   Our program works by looking at the current state of the boarding and performing a minimax alpha beta pruning search 
   on future states of the game to a specific depth defined by a depth interval step function, in order to calculate
    the best move to make at a given state.
